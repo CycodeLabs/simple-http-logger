@@ -1,7 +1,8 @@
 # Simple Python Server Logger
 
 A simple HTTP server that logs all GET and POST requests together with their parameters.
-Using default port 8080.
+Using default port 8080. The solution was based on [this gist](https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7)
+
 
 ## How to Run
 
